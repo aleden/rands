@@ -1,2 +1,5 @@
 # rands
-Cryptographically secure random string generator (uses /dev/random)
+## Usage
+```bash
+$ rands 10
+```
